@@ -1,4 +1,4 @@
-![plane] (plane.jpg)
+![plane](plane.jpg)
 # Description
 
 ## Context
