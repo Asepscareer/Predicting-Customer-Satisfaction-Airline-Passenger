@@ -53,5 +53,6 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 ## Tasks
 What factors contribute to customer satisfaction?
-
-#### Data From : [Kaggle](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction)
+## Notes about the Dataset
+This dataset has already been split into train and test csv files. 80% of the total dataset is in train.csv and 20% is in test.csv
+- Dataset From : [Kaggle](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction)
